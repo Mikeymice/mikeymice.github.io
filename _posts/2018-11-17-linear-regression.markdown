@@ -113,5 +113,4 @@ We have predicted the expected cost of 180 lbs of apples for your pie store via 
 ## References
 
 <https://en.wikipedia.org/wiki/Linear_regression>
-
-<https://en.wikipedia.org/wiki/Linearity>
+<https://en.wikipedia.org/wiki/Linearity>  
