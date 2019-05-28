@@ -2,8 +2,7 @@
 layout: post
 title: Regression Model With Formula in Python
 date: 2019-05-20T14:37:44.000Z
-categories:
-  - package linear-model python patsy statsmodel python formula
+categories: package linear-model python patsy statsmodel python formula
 ---
 
 # R-style Formula in Python!?
